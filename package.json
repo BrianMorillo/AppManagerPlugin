@@ -1,0 +1,14 @@
+{
+  "name": "cordova.plugin.appmanagerplugin",
+  "version": "1.0.0",
+  "description": "Plugin dedicated to the AppManager Application",
+  "cordova": {
+    "id": "cordova.plugin.appmanagerplugin",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Brian Morillo",
+  "license": "MIT"
+}
