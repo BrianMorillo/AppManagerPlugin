@@ -16,7 +16,7 @@ var exec = require('cordova/exec');
 
 var AppManager = {
 	coolMethod: function (arg0, success, error) {
-		exec(success, error, 'AppManagerPlugin', 'coolMethod', [arg0]);
+		return exec(success, error, 'AppManagerPlugin', 'coolMethod', [arg0]);
 	}
 };
 
